@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code or the cleaned splits, please cite the paper below and the four source datasets."
+title: "CharLex: Phishing URL Detection Across Multiple Datasets"
+authors:
+  - family-names: Ahmed
+    given-names: Hassan
+  - family-names: Fatima
+    given-names: Arooj
+  - family-names: Khan
+    given-names: Abdullah
+  - family-names: Saremi
+    given-names: Shahrzad
+  - family-names: Shibl
+    given-names: Rania
+  - family-names: Mirzaei
+    given-names: Mansooreh
+license: MIT
+preferred-citation:
+  type: article
+  title: "Phishing URL Detection Across Multiple Datasets Using Character-Level and Lexical Features"
+  authors:
+    - family-names: Ahmed
+      given-names: Hassan
+    - family-names: Fatima
+      given-names: Arooj
+    - family-names: Khan
+      given-names: Abdullah
+    - family-names: Saremi
+      given-names: Shahrzad
+    - family-names: Shibl
+      given-names: Rania
+    - family-names: Mirzaei
+      given-names: Mansooreh
+  status: submitted

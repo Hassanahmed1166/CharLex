@@ -1,0 +1,15 @@
+# datasets are not redistributed; download them into data/raw/ (see data/README.md)
+data/raw/
+data/processed/
+*.csv
+*.csv.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
