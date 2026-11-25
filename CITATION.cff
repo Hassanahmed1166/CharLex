@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the cleaned splits, please cite the paper below and the four source datasets."
-title: "CharLex: Phishing URL Detection Across Multiple Datasets"
+title: "CharLex: Cross-Dataset Phishing URL Detection"
 authors:
   - family-names: Ahmed
     given-names: Hassan
@@ -17,7 +17,7 @@ authors:
 license: MIT
 preferred-citation:
   type: article
-  title: "Phishing URL Detection Across Multiple Datasets Using Character-Level and Lexical Features"
+  title: "Evaluating Cross-Dataset Generalization in Phishing URL Detection with a Character-Level and Lexical Deep Learning Model"
   authors:
     - family-names: Ahmed
       given-names: Hassan

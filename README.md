@@ -1,8 +1,8 @@
-# CharLex: Phishing URL Detection Across Multiple Datasets
+# CharLex: Cross-Dataset Phishing URL Detection
 
 Data-preparation code for the paper
 
-> **Phishing URL Detection Across Multiple Datasets Using Character-Level and Lexical Features**
+> **Evaluating Cross-Dataset Generalization in Phishing URL Detection with a Character-Level and Lexical Deep Learning Model**
 > H. Ahmed, A. Fatima, A. Khan, S. Saremi, R. Shibl, M. Mirzaei (under review).
 
 CharLex is a URL-only phishing detector with two input streams:
